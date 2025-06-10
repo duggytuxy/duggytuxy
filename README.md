@@ -2,6 +2,11 @@
 
 I'm Senior Cyber Security Engineer and CISO @Acensi Group
 
+## My Project 🧑‍🏫
+
+My project is based on a Blocklist of malicious, aggressive, noisy IP addresses with strong signals, built around a deployment of a few probes placed in the French and Belgian network.
+
+**This blocklist is maintained under the frequency of updates between 4 hours and 24 hours depending on the analytical processing and correlation between different CTI platforms.**
 <!--
 **duggytuxy/duggytuxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
