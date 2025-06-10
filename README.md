@@ -10,7 +10,7 @@ My project is based on a Blocklist of malicious, aggressive, noisy IP addresses 
 
 ## My added value 🎖️
 
-My added value is to provide a database blocklist of high reliability and quality so that it contains no false positives and can be implemented in any solution such as Firewalls, Web Proxies, DNS Sinkhole, etc.
+With my background in CTI, as well as SOC analyst and DFIR enthusiast, my added value is to provide a database blocklist of high reliability and quality so that it contains no false positives and can be implemented in any solution such as Firewalls, Web Proxies, DNS Sinkhole, etc.
 
 **Here is the link to the repository for this project**
 👉 https://github.com/duggytuxy/Intelligence_IPv4_Blocklist
