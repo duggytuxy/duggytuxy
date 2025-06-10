@@ -13,7 +13,14 @@ My project is based on a Blocklist of malicious, aggressive, noisy IP addresses 
 My added value is to provide a database blocklist of high reliability and quality so that it contains no false positives and can be implemented in any solution such as Firewalls, Web Proxies, DNS Sinkhole, etc.
 
 **Here is the link to the repository for this project**
-👉https://github.com/duggytuxy/Intelligence_IPv4_Blocklist
+👉 https://github.com/duggytuxy/Intelligence_IPv4_Blocklist
 
 ## Support my project 🙏
 
+To support my project (VPS deployed, APIs from renowned CTI platforms)
+
+👉 Paypal (The entire project) : https://www.paypal.com/donate?campaign_id=88XWURTQHNMK4
+
+👉 Paypal (Oneshot like Buymeacoffee) : https://www.paypal.com/donate/?hosted_button_id=YDTWBDBS7CPLN
+
+👉 Liberapay : https://liberapay.com/Duggy_Tuxy/donate
