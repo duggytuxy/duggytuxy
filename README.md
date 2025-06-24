@@ -2,7 +2,7 @@
 
 I'm Senior Cyber Security Engineer and CISO @Acensi Group
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/duggytuxy.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/duggytuxy.png" alt="Duggy Tuxy" />
 
 ## My Project 🧑‍🏫
 
