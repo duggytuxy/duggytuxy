@@ -2,8 +2,6 @@
 
 I'm Senior Cyber Security Engineer and CISO @Acensi Group
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/duggytuxy.png" alt="Duggy Tuxy" />
-
 ## My Project 🧑‍🏫
 
 My project is based on a Blocklist of malicious, aggressive, noisy IP addresses with strong signals, built around a deployment of a few probes placed in the French and Belgian network.
