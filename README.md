@@ -19,8 +19,6 @@ With my background in CTI, as well as SOC analyst and DFIR enthusiast, my added 
 
 To support my project (VPS deployed, APIs from renowned CTI platforms)
 
-👉 Paypal (The entire project) : https://www.paypal.com/donate?campaign_id=88XWURTQHNMK4
-
-👉 Paypal (Oneshot like Buymeacoffee) : https://www.paypal.com/donate/?hosted_button_id=YDTWBDBS7CPLN
+👉 Ko-Fi (The entire project) : https://ko-fi.com/laurentmduggytuxy
 
 👉 Liberapay : https://liberapay.com/Duggy_Tuxy/donate
