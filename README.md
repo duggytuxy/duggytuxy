@@ -13,13 +13,14 @@ My project is based on a Blocklist of malicious, aggressive, noisy IP addresses 
 With my background in CTI, as well as SOC analyst and DFIR enthusiast, my added value is to provide a database blocklist of high reliability and quality so that it contains no false positives and can be implemented in any solution such as Firewalls, Web Proxies, DNS Sinkhole, etc.
 
 **Here is the link to the repository for this project**
-👉 https://github.com/duggytuxy/Intelligence_IPv4_Blocklist
+
+👉 [**Intelligence IPv4 Blocklist**](https://github.com/duggytuxy/Intelligence_IPv4_Blocklist)
 
 ## Support my project 🙏
 
 To support my project (VPS deployed, APIs from renowned CTI platforms)
 
 | **Site**📍 | **Link**🌍 |
-|---|---|
-| **Ko-Fi** | <div align="center"><a href="https://ko-fi.com/laurentmduggytuxy">🔗</a></div> |
-| **Liberapay** | <div align="center"><a href="https://liberapay.com/Duggy_Tuxy">🔗</a></div> |
+|---|---|---|
+| **Ko-Fi** | Join all types of creators getting donations, memberships, etc. from their fans! | <div align="center"><a href="https://ko-fi.com/laurentmduggytuxy">🔗</a></div> |
+| **Liberapay** | Liberapay is a recurring donation platform. | <div align="center"><a href="https://liberapay.com/Duggy_Tuxy">🔗</a></div> |
