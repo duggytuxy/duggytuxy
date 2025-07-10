@@ -19,7 +19,7 @@ With my background in CTI, as well as SOC analyst and DFIR enthusiast, my added 
 
 To support my project (VPS deployed, APIs from renowned CTI platforms)
 
-| 📍**Site** | 🌍**Link** |
+| **Site**📍 | **Link**🌍 |
 |---|---|
 | **Ko-Fi** | <div align="center"><a href="https://ko-fi.com/laurentmduggytuxy">🔗</a></div> |
 | **Liberapay** | <div align="center"><a href="https://liberapay.com/Duggy_Tuxy">🔗</a></div> |
