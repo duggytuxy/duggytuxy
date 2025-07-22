@@ -14,7 +14,7 @@ With my background in CTI, as well as SOC analyst and DFIR enthusiast, my added 
 
 **Here is the link to the repository for this project**
 
-👉 [**Data-Shield IPv4 Blocklist**](https://github.com/duggytuxy/Intelligence_IPv4_Blocklist)
+👉 [**Data-Shield IPv4 Blocklist**](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist)
 
 ## Support my project 🙏
 
@@ -23,4 +23,3 @@ To support my project (VPS deployed, APIs from renowned CTI platforms)
 | **Site**📍 | **Description**📜 | **Link**🌍 |
 |---|---|---|
 | **Ko-Fi** | Join all types of creators getting donations, memberships, etc. from their fans! | [**Thank you !!!**](https://ko-fi.com/laurentmduggytuxy) |
-| **Liberapay** | Liberapay is a recurring donation platform. | [**Thank you !!!**](https://liberapay.com/Duggy_Tuxy) |
