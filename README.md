@@ -14,7 +14,7 @@ With my background in CTI, as well as SOC analyst and DFIR enthusiast, my added 
 
 **Here is the link to the repository for this project**
 
-👉 [**Intelligence IPv4 Blocklist**](https://github.com/duggytuxy/Intelligence_IPv4_Blocklist)
+👉 [**Data-Shield(EU) IPv4 Blocklist**](https://github.com/duggytuxy/Intelligence_IPv4_Blocklist)
 
 ## Support my project 🙏
 
