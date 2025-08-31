@@ -1,25 +1,38 @@
-## Hi there 👋
+## Hello World
 
-I'm Senior Cyber Security Engineer and CISO @Acensi Group
+Je suis ingénieur senior en sécurité • Blueteamer • Ambassadeur de la communauté Harden • Ambassadeur Wazuh
 
-## My Project 🧑‍🏫
+## Mon projet
 
-My project is based on a Blocklist of malicious, aggressive, noisy IP addresses with strong signals, built around a deployment of a few probes placed in European network.
+Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes. Grâce à un réseau de 16 leurres déployés dans des zones stratégiques du cyberespace européen, plus de **8000 adresses IP uniques** sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les **4 à 24 heures**
 
-**This blocklist is maintained under the frequency of updates between 4 hours and 24 hours depending on the analytical processing and correlation between different CTI platforms.**
+### Objectif
 
-## My added value 🎖️
+Cette liste constitue une **couche de protection supplémentaire** visant à :
 
-With my background in CTI, as well as SOC analyst and DFIR enthusiast, my added value is to provide a database blocklist of high reliability and quality so that it contains no false positives and can be implemented in any solution such as Firewalls, Web Proxies, DNS Sinkhole, etc.
+- Réduire le nombre d’attaques
+- Limiter la cartographie des actifs exposés (IP publiques)
+- Réduire légèrement la surface d’attaque (ex. reconnaissance)
 
-**Here is the link to the repository for this project**
+## Ma valeur ajoutée
 
-👉 [**Data-Shield IPv4 Blocklist**](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist)
+Fort de mon expérience dans la CTI, analyste SOC et passionné de DFIR, ma valeur ajoutée consiste à fournir une liste noire de bases de données hautement fiable et de grande qualité, afin qu'elle ne contienne aucun faux positif et puisse être intégrée dans n'importe quelle solution telle que les pare-feu, les proxys Web, les DNS Sinkhole, etc.
 
-## Support my project 🙏
+**Voici le lien vers le référentiel de ce projet**
 
-To support my project (VPS deployed, APIs from renowned CTI platforms)
+- [**Data-Shield IPv4 Blocklist**](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist)
 
-| **Site**📍 | **Description**📜 | **Link**🌍 |
+# Soutenir le projet
+
+Ce projet peut sembler être d'une facilité déconcertante à maintenir mais il représente du temps de travail et du financement :
+
+- Hébergement des leurres (VPS)
+- APIs
+- Corrélation de données
+- Vérification, qualification, intégration et mise en production continue
+
+Grâce à votre soutien et aux dons, ce projet sera maintenu et perdurera son existance !
+
+| **Site de donations** | **Description** | **URL** |
 |---|---|---|
-| **Ko-Fi** | Join all types of creators getting donations, memberships, etc. from their fans! | [**Thank you !!!**](https://ko-fi.com/laurentmduggytuxy) |
+| **Ko-Fi** | Rejoignez tous les types de créateurs qui reçoivent des dons, des adhésions, etc. de la part de leurs fans ! | [**Merci à vous !!!**](https://ko-fi.com/laurentmduggytuxy) |
