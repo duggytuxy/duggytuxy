@@ -1,6 +1,6 @@
 ## Hello World
 
-Je suis ingénieur senior en sécurité • Blueteamer • Ambassadeur de la communauté Harden • Ambassadeur Wazuh
+Je suis Ingénieur en Cybersécurité → Blueteamer • Ambassadeur de la Communauté Harden • Ambassadeur et contributeur de la solution Wazuh
 
 ## Mon projet
 
