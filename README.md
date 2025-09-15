@@ -1,6 +1,6 @@
 ## Hello World
 
-Je suis Ingénieur en Cybersécurité → Blueteamer • Ambassadeur de la Communauté Harden • Ambassadeur et contributeur de la solution Wazuh
+Je suis RSSI /Ingénieur en Cybersécurité /Fondateur de Data-Shield IPv4 Blocklist
 
 ## Mon projet
 
