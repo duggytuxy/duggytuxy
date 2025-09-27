@@ -4,7 +4,7 @@ Je suis RSSI /Ingénieur en Cybersécurité /Fondateur de Data-Shield IPv4 Block
 
 ## Mon projet
 
-Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes. Grâce à un réseau de 24 leurres déployés dans des zones stratégiques du cyberespace européen, plus de **9150 adresses IP uniques** sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les **24 heures**
+Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes. Grâce à un réseau de 36 leurres déployés dans des zones stratégiques du cyberespace européen, plus de **9240 adresses IP uniques** sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les **24 heures**
 
 ### Objectif
 
