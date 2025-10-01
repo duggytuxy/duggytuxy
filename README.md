@@ -4,7 +4,7 @@ Je suis Ingénieur en Sécurité des Systèmes d’Informations & Cybersécurit�
 
 ## Mon projet
 
-Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes. Grâce à un réseau de ```36``` leurres déployés dans des zones stratégiques du cyberespace européen, plus de ```**9240 adresses IP uniques**``` sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les **24 heures**
+Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme abusives, agressives ou malveillantes. Grâce à un réseau de ```36``` leurres déployés dans des zones stratégiques du cyberespace européen, plus de ```**9240 adresses IP uniques**``` sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les ```**24 heures**```
 
 ### Objectif
 
@@ -16,7 +16,7 @@ Cette liste constitue une **couche de protection supplémentaire** visant à :
 
 ## Ma valeur ajoutée
 
-Fort de mon expérience dans la CTI, analyste SOC et passionné de DFIR, ma valeur ajoutée consiste à fournir une liste noire de bases de données hautement fiable et de grande qualité, afin qu'elle ne contienne aucun faux positif et puisse être intégrée dans n'importe quelle solution telle que les pare-feu, les proxys Web, les DNS Sinkhole, etc.
+Grâce à mon expertise en CTI, mon expérience en tant qu’analyste SOC et ma passion pour le DFIR, je propose une valeur ajoutée stratégique : la fourniture de listes noires de bases de données d’une fiabilité et d’une qualité exceptionnelles, exemptes de faux positifs, parfaitement intégrables dans des solutions de cybersécurité telles que les pare-feu, les proxys Web, les DNS Sinkhole, et bien d’autres.
 
 **Voici le lien vers le référentiel de ce projet**
 
