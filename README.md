@@ -16,7 +16,7 @@ Cette liste constitue une **couche de protection supplémentaire** visant à :
 
 ## Ma valeur ajoutée
 
-Grâce à mon expertise en CTI, mon expérience en tant qu’analyste SOC et ma passion pour le DFIR, je propose une valeur ajoutée stratégique : la fourniture de listes noires de bases de données d’une fiabilité et d’une qualité exceptionnelles, exemptes de faux positifs, parfaitement intégrables dans des solutions de cybersécurité telles que les pare-feu, les proxys Web, les DNS Sinkhole, et bien d’autres.
+Grâce à mes connaissances en CTI, mon expérience en tant qu’analyste SOC et ma passion pour le DFIR, je propose une valeur ajoutée stratégique : la fourniture de listes noires de bases de données d’une fiabilité et d’une qualité exceptionnelles, exemptes de faux positifs, parfaitement intégrables dans des solutions de cybersécurité telles que les pare-feu, les proxys Web, les DNS Sinkhole, et bien d’autres.
 
 **Voici le lien vers le référentiel de ce projet**
 
