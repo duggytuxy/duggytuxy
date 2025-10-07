@@ -1,12 +1,12 @@
-## 🖐Hello World
+# 🖐Hello World
 
 Je suis Ingénieur en Sécurité des Systèmes d’Informations & Cybersécurité ​et Créateur de la Data-Shield IPv4 Blocklist
 
-## 📋Mon projet
+# 📋Mon projet
 
 Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme étant des sources d'activités dangereuses. Grâce à un réseau de ```42``` leurres déployés dans des zones stratégiques du cyberespace européen, plus de ```**9480 adresses IP uniques**``` sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les ```**24 heures**```
 
-### 🎯Objectif
+# 🎯Objectif
 
 Cette liste constitue une **couche de protection supplémentaire** visant à :
 
@@ -14,7 +14,7 @@ Cette liste constitue une **couche de protection supplémentaire** visant à :
 - Limiter la cartographie des actifs exposés (IP publiques)
 - Réduire légèrement la surface d’attaque (ex. reconnaissance)
 
-## 🥇Ma valeur ajoutée
+# 🥇Ma valeur ajoutée
 
 Grâce à mes connaissances en CTI, mon expérience en tant qu’analyste SOC et ma passion pour le DFIR, je propose une valeur ajoutée stratégique : la fourniture de listes noires de bases de données d’une fiabilité et d’une qualité exceptionnelles, exemptes de faux positifs, parfaitement intégrables dans des solutions de cybersécurité telles que les pare-feu, les proxys Web, les DNS Sinkhole, et bien d’autres.
 
@@ -31,7 +31,7 @@ Ce projet peut sembler être d'une facilité déconcertante à maintenir mais il
 - Corrélation de données
 - Vérification, qualification, intégration et mise en production continue
 
-Grâce à votre soutien et aux dons, ce projet sera maintenu et perdurera son existance !
+***Grâce à votre soutien et aux dons, ce projet sera maintenu et perdurera son existance !***
 
 | **Site de donations** | **Description** | **URL** |
 |---|---|---|
