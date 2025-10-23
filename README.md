@@ -4,7 +4,7 @@ Je suis Ingénieur en Sécurité des Systèmes d’Informations & Cybersécurit�
 
 # 📋Mon projet
 
-Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme étant des sources d'activités dangereuses. Grâce à un réseau de ```43``` leurres déployés dans des zones stratégiques du cyberespace européen, plus de ```**9520 adresses IP uniques**``` sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les ```**24 heures**```
+Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme étant des sources d'activités dangereuses. Grâce à un réseau de ```44``` leurres déployés dans des zones stratégiques du cyberespace européen, plus de ```**9650 adresses IP uniques**``` sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les ```**24 heures**```
 
 # 🎯Objectif
 
@@ -35,5 +35,5 @@ Ce projet peut sembler être d'une facilité déconcertante à maintenir mais il
 
 | **Site de donations** | **Description** | **URL** |
 |---|---|---|
-| **Ko-Fi** | Rejoignez tous les types de créateurs qui reçoivent des dons, des adhésions, etc. de la part de leurs fans ! | [**Merci à vous !!!**](https://ko-fi.com/laurentmduggytuxy) |
-| **Duggy Tuxy Store** | Boutique officielle de goodies pour contribuer au projet Data-Shield IPv4 Blocklist | [**Visitez la boutique**](https://duggy-tuxy.myspreadshop.be/) |
+| **Ko-Fi** | Rejoignez tous les types de créateurs qui reçoivent des dons, des adhésions, etc. de la part de leurs fans ! | [**👉Merci à vous !!!**](https://ko-fi.com/laurentmduggytuxy) |
+| **Duggy Tuxy Store** | Boutique officielle de goodies pour contribuer au projet Data-Shield IPv4 Blocklist | [**🏬Visitez la boutique**](https://duggy-tuxy.myspreadshop.be/) |
