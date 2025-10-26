@@ -1,39 +1,26 @@
-# 🖐Hello World
+# Hello World
 
-Je suis Ingénieur en Sécurité des Systèmes d’Informations & Cybersécurité ​et Créateur de la Data-Shield IPv4 Blocklist
+I'm Defensive Cybersecurity Engineer, CISO at Acensi Group and Author of Data-Shield IPv4 Blocklist
 
-# 📋Mon projet
+## Data-Shield IPv4 Blocklist  
 
-Ce projet vise à réduire le nombre d'attaques en bloquant les adresses IP identifiées comme étant des sources d'activités dangereuses. Grâce à un réseau de ```44``` leurres déployés dans des zones stratégiques du cyberespace européen, plus de ```**9650 adresses IP uniques**``` sont collectées quotidiennement. Après analyse et validation, les adresses IP sont ajoutées à cette liste de blocage, surveillée en continu. Je rappelle que cette liste ne remplace en aucun cas les bonnes pratiques de sécurité, elle y contribue et mise à journée toutes les ```**24 heures**```
+Data-Shield IPv4 Blocklist is an additional layer of protection containing a list of [IP addresses (version 4)](https://en.wikipedia.org/wiki/IPv4) whose activities have been detected as malicious.
 
-# 🎯Objectif
+This list is designed around the discipline of [Deceptive Security](https://www.orangecyberdefense.com/be/blog/discover-deception-security#:~:text=What%20is%20deception%20security?,potentially%20demotivate%20some%20of%20them.) based on intelligent behavioral analysis of malicious activities related to cybercrime.
 
-Cette liste constitue une **couche de protection supplémentaire** visant à :
+Data-Shield IPv4 Blocklist contains the most recent data (IPv4 addresses) to provide an additional layer of security for your [firewall](https://en.wikipedia.org/wiki/Firewall_(computing)), [WAF](https://en.wikipedia.org/wiki/Web_application_firewall), and [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole) instances.
 
-- Réduire le nombre d’attaques
-- Limiter la cartographie des actifs exposés (IP publiques)
-- Réduire légèrement la surface d’attaque (ex. reconnaissance)
+- **The official repository**: ```https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist```
 
-# 🥇Ma valeur ajoutée
+## About me!
 
-Grâce à mes connaissances en CTI, mon expérience en tant qu’analyste SOC et ma passion pour le DFIR, je propose une valeur ajoutée stratégique : la fourniture de listes noires de bases de données d’une fiabilité et d’une qualité exceptionnelles, exemptes de faux positifs, parfaitement intégrables dans des solutions de cybersécurité telles que les pare-feu, les proxys Web, les DNS Sinkhole, et bien d’autres.
+To learn more about me, you can visit my LinkedIn profile via this link:
 
-**Voici le lien vers le référentiel de ce projet**
+- **My Linkedin profile**: ```https://www.linkedin.com/in/laurent-minne/```
 
-- [**Data-Shield IPv4 Blocklist**](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist)
+## Support Data-Shield IPv4 Blocklist!
 
-# ❤Soutenir le projet
+Data-Shield IPv4 Blocklist requires time and funding. That is why it is important to appeal for donations so that it can be maintained over time and in the best possible conditions:
 
-Ce projet peut sembler être d'une facilité déconcertante à maintenir mais il représente du temps de travail et du financement :
-
-- Hébergement des leurres (VPS)
-- APIs
-- Corrélation de données
-- Vérification, qualification, intégration et mise en production continue
-
-***Grâce à votre soutien et aux dons, ce projet sera maintenu et perdurera son existance !***
-
-| **Site de donations** | **Description** | **URL** |
-|---|---|---|
-| **Ko-Fi** | Rejoignez tous les types de créateurs qui reçoivent des dons, des adhésions, etc. de la part de leurs fans ! | [**👉Merci à vous !!!**](https://ko-fi.com/laurentmduggytuxy) |
-| **Duggy Tuxy Store** | Boutique officielle de goodies pour contribuer au projet Data-Shield IPv4 Blocklist | [**🏬Visitez la boutique**](https://duggy-tuxy.myspreadshop.be/) |
+- **Ko-Fi**: ```https://ko-fi.com/laurentmduggytuxy```
+- **Duggy Tuxy Store**: ```https://duggy-tuxy.myspreadshop.be```
