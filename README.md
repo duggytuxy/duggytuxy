@@ -1,6 +1,6 @@
 # Hello World
 
-I'm Defensive Cybersecurity Engineer, CISO at Acensi Group and Author of Data-Shield IPv4 Blocklist
+I'm Author of Data-Shield IPv4 Blocklist • Cyber Security Engineer • Blue Teamer • CISO Acensi Group
 
 ## Data-Shield IPv4 Blocklist  
 
