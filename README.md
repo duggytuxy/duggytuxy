@@ -8,7 +8,7 @@ Data-Shield IPv4 Blocklist is an additional layer of protection containing a lis
 
 This list is designed around the discipline of [Deceptive Security](https://en.wikipedia.org/wiki/Deception_technology) based on intelligent behavioral analysis of malicious activities related to cybercrime.
 
-Data-Shield IPv4 Blocklist contains the most recent data (IPv4 addresses) to provide an additional layer of security for your [firewall](https://en.wikipedia.org/wiki/Firewall_(computing)), [WAF](https://en.wikipedia.org/wiki/Web_application_firewall), and [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole) instances.
+Data-Shield IPv4 Blocklist contains the most recent data (IPv4 addresses) to provide an additional layer of security for your [firewall](https://en.wikipedia.org/wiki/Firewall_(computing) and [WAF](https://en.wikipedia.org/wiki/Web_application_firewall) instances.
 
 - **The official repository**: ```https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist```
 
