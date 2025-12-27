@@ -1,6 +1,6 @@
 # Hello World
 
-I'm Author of Data-Shield IPv4 Blocklist • Cyber Security Engineer • Blue Teamer • CISO Acensi Group
+I'm Security Engineer and Author of Data-Shield IPv4 Blocklist
 
 ## Data-Shield IPv4 Blocklist  
 
