@@ -1,16 +1,13 @@
 # Hello World
 
-I'm Security Engineer and Author of Data-Shield IPv4 Blocklist
+I'm Security Engineer, Author of Data-Shield IPv4 Blocklist and Open Source Lover
 
-## Data-Shield IPv4 Blocklist  
+## Data‑Shield IPv4 Blocklist Community
 
-Data-Shield IPv4 Blocklist is an additional layer of protection containing a list of [IP addresses (version 4)](https://en.wikipedia.org/wiki/IPv4) whose activities have been detected as malicious.
-
-This list is designed around the discipline of [Deceptive Security](https://en.wikipedia.org/wiki/Deception_technology) based on intelligent behavioral analysis of malicious activities related to cybercrime.
-
-Data-Shield IPv4 Blocklist contains the most recent data (IPv4 addresses) to provide an additional layer of security for your [firewall](https://en.wikipedia.org/wiki/Firewall) and [WAF](https://en.wikipedia.org/wiki/Web_application_firewall) instances.
+**The Data-Shield IPv4 Blocklist Community** provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster your **Firewall** and **WAF** instances, delivering a robust, additional layer of security for your infrastructure.
 
 - **The official repository**: ```https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist```
+- **The official website**: ```https://duggytuxy.github.io```
 
 ## About me!
 
