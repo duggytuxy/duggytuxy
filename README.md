@@ -7,14 +7,12 @@ I'm Security Engineer, Author of Data-Shield IPv4 Blocklist and Open Source Love
 **The Data-Shield IPv4 Blocklist Community** provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster your **Firewall** and **WAF** instances, delivering a robust, additional layer of security for your infrastructure.
 
 - **The official repository**: ```https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist```
-- **The official website**: ```https://duggytuxy.github.io```
 
 ## SysWarden
 
 **SysWarden** is an advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates **Data-Shield IPv4 blocklists**, **Geo-Blocking**, **Spamhaus ASN**, **Fail2ban**, and a **WireGuard VPN** to proactively block 98,2% of malicious traffic. Secure your servers and Docker containers with a near-zero memory footprint.
 
 - **The official repository**: ```https://github.com/duggytuxy/syswarden```
-- **The official website**: ```https://syswarden.io```
 
 ## About me!
 
