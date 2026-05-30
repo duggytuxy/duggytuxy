@@ -10,7 +10,9 @@ I'm Security Engineer, Author of Data-Shield IPv4 Blocklist and Open Source Love
 
 ## SysWarden
 
-**SysWarden** is an advanced, ultra-lightweight firewall orchestrator for Linux. SysWarden integrates **Data-Shield IPv4 blocklists**, **Geo-Blocking**, **Spamhaus ASN**, **Fail2ban**, and a **WireGuard VPN** to proactively block 98,2% of malicious traffic. Secure your servers and Docker containers with a near-zero memory footprint.
+**SysWarden** is an Enterprise-grade Default-Deny Host Intrusion Prevention System (HIPS) designed for critical Linux infrastructure. It enforces automated a part of CIS Level 2 hardening, integrates global Threat Intelligence, and orchestrates dynamic network defense with a near-zero performance overhead.
+
+It acts as a ruthless first line of defense. By fusing dynamic firewall orchestration (`nftables`/`iptables`), global Threat Intelligence ([Data-Shield IPv4](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist), GeoIP, ASN), a reactive HIPS (optimized Fail2ban), and SIEM alert routing, SysWarden filters out Internet "background noise" and neutralizes threats at the network (L2/L3/L4) and application (L7) levels. It perfectly complements modern EDR/XDR architectures by drastically reducing their analysis surface and the server's CPU load.
 
 - **The official repository**: ```https://github.com/duggytuxy/syswarden```
 
