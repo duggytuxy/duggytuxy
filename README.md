@@ -16,7 +16,7 @@ It acts as a ruthless first line of defense. By fusing dynamic firewall orchestr
 
 - **The official repository**: ```https://github.com/duggytuxy/syswarden```
 
-# SysWarden-FreeBSD
+## SysWarden-FreeBSD
 
 **SysWarden-FreeBSD** is an Enterprise-grade Hardened Host Intrusion Detection & Prevention System (HIDS - HIPS) designed for critical FreeBSD infrastructure. It enforces automated a part of CIS Level 2 hardening, integrates global Threat Intelligence, and orchestrates dynamic network defense with a near-zero performance overhead.
 
