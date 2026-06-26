@@ -8,7 +8,7 @@ I'm Security Engineer, Author of Data-Shield IPv4 Blocklist and Open Source Love
 
 - **The official repository**: ```https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist```
 
-# SysWarden v2 🚀
+# SysWarden v3 🌟
 
 **SysWarden** is an Enterprise-grade Hardened Host Intrusion Detection & Prevention System (HIDS - HIPS) engineered in **100% Native Golang**. Designed for critical Linux infrastructures, it enforces automated CIS Level 2 hardening, integrates global Threat Intelligence, and orchestrates dynamic network defense with absolute zero-trust execution.
 
