@@ -23,7 +23,7 @@ It acts as a ruthless first line of defense. By fusing dynamic firewall orchestr
 
 To learn more about me, you can visit my LinkedIn profile via this link:
 
-- **My Linkedin profile**: ```https://www.linkedin.com/in/laurent-minne/```
+- **My Mastodon profile**: ```https://mastodon.social/@duggyt```
 
 ## Support Data-Shield IPv4 Blocklist and SysWarden!
 
