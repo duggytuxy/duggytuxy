@@ -21,9 +21,13 @@ It acts as a ruthless first line of defense. By fusing dynamic firewall orchestr
 
 ## About me!
 
+<a href="https://stats.hyo.dev/stats/duggytuxy"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=duggytuxy" width="600" /></a>
+
 To learn more about me, you can visit my LinkedIn profile via this link:
 
 - **My Mastodon profile**: ```https://mastodon.social/@duggyt```
+
+<a href="https://stats.hyo.dev/stats/duggytuxy"><img src="https://stats.hyo.dev/api/github-trophies?login=duggytuxy" width="600" /></a>
 
 ## Support Data-Shield IPv4 Blocklist and SysWarden!
 
