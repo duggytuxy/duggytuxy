@@ -10,14 +10,21 @@ I'm Security Engineer, Author of Data-Shield IPv4 Blocklist and Open Source Love
 
 # SysWarden v4
 
-**SysWarden** is an Enterprise-grade Hardened Host Intrusion Detection & Prevention System (HIDS - HIPS) engineered in **100% Native Golang**. Designed for critical Linux infrastructures, it enforces automated CIS Level 2 hardening, integrates global Threat Intelligence, and orchestrates dynamic network defense with absolute zero-trust execution.
+**Host-local Linux defense with auditable, fail-closed enforcement.**
 
-It acts as a ruthless first line of defense. By fusing dynamic firewall orchestration (`nftables`/`iptables`/`pf`), global Threat Intelligence ([Data-Shield IPv4](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist), GeoIP, ASN), a high-speed memory-safe WAF daemon (`syswarden-core`), and SIEM alert routing natively via Go, SysWarden neutralizes threats at the network (L2/L3/L4) and application (L7) levels without exposing your kernel to shell injection risks.
+SysWarden is an open-source Linux security orchestrator that combines an
+authoritative nftables policy, host telemetry, threat-intelligence lists,
+out-of-band WAAP log analysis, authenticated high availability and a native
+terminal dashboard. It is designed for operators who want one reviewable host
+defense layer without placing another proxy in the application data path.
 
-> [!IMPORTANT]
-> **Zero CWE Mitigation:** Re-architected entirely in Go, SysWarden v2 strongly mitigates risks of OS Command Injection (CWE-78), Memory Corruption (CWE-119), and Resource Exhaustion (CWE-400), seamlessly accelerating your **ISO 27001, NIS2, and CIS Benchmark** compliance.
+SysWarden is not an inline HTTP proxy, a traffic sanitizer or a regulatory
+certification product.
 
-- **The official repository**: ```https://github.com/duggytuxy/syswarden```
+Current source version: **v4.04.0**.
+
+The latest qualified, stable public release is
+[v4.03.3](https://github.com/duggytuxy/syswarden/releases/tag/v4.03.3).
 
 ## About me!
 
