@@ -24,7 +24,7 @@ certification product.
 Current source version: **v4.10.4**.
 
 The latest qualified, stable public release is
-[v4.10.2](https://github.com/duggytuxy/syswarden/releases/tag/v4.10.44444444).
+[v4.10.4](https://github.com/duggytuxy/syswarden/releases/tag/v4.10.4).
 
 ## About me!
 
